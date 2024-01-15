@@ -1,0 +1,1 @@
+My personal minimalist website on GitHub: [RakhDamir.github.io](https://rakhdamir.github.io/)
