@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
-== Damir R. Rakhimov
+= Damir R. Rakhimov
 
 
 ~~~
@@ -38,8 +38,8 @@ My research interests include array signal processing, machine learning, real-ti
 
 Helmholzplatz 2, office H3510 \n
 98693, Ilmenau, Germany \n
-*Email*: [(damir.rakhimov@tu-ilmenau.de)] \n
-[(https://rakhdamir.github.io/)] \n
+*Email*: [mailto:damir.rakhimov@tu-ilmenau.de] \n
+[https://rakhdamir.github.io/] \n
 
 == Visitors
 ~~~
