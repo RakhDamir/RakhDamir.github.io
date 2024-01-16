@@ -1,41 +1,51 @@
 # jemdoc: menu{MENU}{projects.html}
 = Research Projects
 
--   +Reconfigurable Intelligent Surfaces and Holographic Beamforming.+ \n
-    / Period /: March 2022 – June 2023 \n
-    / Role /: Senior Team Member \n
-    / Responsibilities /: Design and simulation of wireless communications, software design.
--   +Advanced Hybrid Analog-Digital Massive MIMO Techniques for Millimeter Wave Wireless Systems.+ \n 
-    / Period /: April 2019 – December 2022 \n
-    / Role /: Senior Team member \n
-    / Responsibilities /: Design and simulation of wireless communications, software design.
+===   Reconfigurable Intelligent Surfaces and Holographic Beamforming. \n
+   - + Period +: March 2022 – June 2023 \n
+   - + Role +: Senior Team Member \n
+   - + Responsibilities +: Design and simulation of wireless communications, software design.
+   #- + Short Description +: 
 
--  +Design and hardware verification of compensation algorithms of pattern distortion for multiple beams antennas.+ \n 
-   / Period /: January 2017 – December 2017 \n  
-   / Role /: Senior Team member \n
-   / Responsibilities /: Implementation of algorithm in hardware, software design, system performance evaluation, hardware verification.
 
--  +Research and development of recognition algorithms for the video processing module of adaptive front-light control system.+ \n
-   / Period /: January 2016 – February 2017    \n
-   / Role /: Team member  \n
-   / Responsibilities /: Algorithms design and verification, hardware implementation, system performance evaluation.
+===   Advanced Hybrid Analog-Digital Massive MIMO Techniques for Millimeter Wave Wireless Systems. \n 
+   - + Period +: April 2019 – December 2022 \n
+   - + Role +: Senior Team member \n
+   - + Responsibilities +: Design and simulation of wireless communications, software design.
+   #- + Short Description +: 
 
--  +Development of prototype and verification stand for radio direction finder.+ \n
-   / Period /: May 2015 – November 2015  \n  
-   / Role /: Senior Team member \n
-   / Responsibilities /: System modeling, development of software to control test equipment for direction finder, designing of system structure, verification of measuring algorithm.
+===   Design and hardware verification of compensation algorithms of pattern distortion for multiple beams antennas. \n 
+   - + Period +: January 2017 – December 2017 \n  
+   - + Role +: Senior Team member \n
+   - + Responsibilities +: Implementation of algorithm in hardware, software design, system performance evaluation, hardware verification.
+   #- + Short Description +: 
 
--  +Development of digital processing module for a prototype of a beacon transponder.+ \n
-   / Period /: September 2013 – January 2014 \n
-   / Role /: Team member \n
-   / Responsibilities /: System modeling, development of software to control equipment (prototype), programming FPGA board, research and development of algorithms to receive and process data.
+===   Research and development of recognition algorithms for the video processing module of adaptive front-light control system. \n
+   - + Period +: January 2016 – February 2017    \n
+   - + Role +: Team member  \n
+   - + Responsibilities +: Algorithms design and verification, hardware implementation, system performance evaluation.
+   #- + Short Description +: 
 
--  +Research and development of a prototype for OFDM based communication system.+ \n
-   / Period /: January 2012 – December 2012  \n
-   / Role /: Team member \n
-   / Responsibilities /: System modeling, development of software for USRP testbed, research and development of time and frequency synchronization algorithms for OFDM based communication systems prototype.
+===   Development of prototype and verification stand for radio direction finder. \n
+   - + Period +: May 2015 – November 2015  \n  
+   - + Role +: Senior Team member \n
+   - + Responsibilities +: System modeling, development of software to control test equipment for direction finder, designing of system structure, verification of measuring algorithm.
+   #- + Short Description +: 
 
--  +Development of software for automated system for antenna measurements.+ \n
-   / Period /: April 2011 – October 2011  \n
-   / Role /: Team member  \n
-   / Responsibilities /: Development of software for equipment control, software for measurement data processing and software for data visualization.
+===   Development of digital processing module for a prototype of a beacon transponder. \n
+   - + Period +: September 2013 – January 2014 \n
+   - + Role +: Team member \n
+   - + Responsibilities +: System modeling, development of software to control equipment (prototype), programming FPGA board, research and development of algorithms to receive and process data.
+   #- + Short Description +: 
+
+===   Research and development of a prototype for OFDM based communication system. \n
+   - + Period +: January 2012 – December 2012  \n
+   - + Role +: Team member \n
+   - + Responsibilities +: System modeling, development of software for USRP testbed, research and development of time and frequency synchronization algorithms for OFDM based communication systems prototype.
+   #- + Short Description +: 
+
+===   Development of software for automated system for antenna measurements. \n
+   - + Period +: April 2011 – October 2011  \n
+   - + Role +: Team member  \n
+   - + Responsibilities +: Development of software for equipment control, software for measurement data processing and software for data visualization.
+   #- + Short Description +: 
