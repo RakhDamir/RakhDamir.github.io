@@ -3,7 +3,7 @@
 
 
 ~~~
-{}{img_left}{./imgs/foto.jpg}{Damir Rakhimov}{200px}{200px}{../imgs/foto.jpg}{}{raw}
+{}{img_left}{./imgs/foto.jpg}{Damir Rakhimov}{150px}{150px}{../imgs/foto.jpg}{}{raw}
 Master of Science \n
 Member [https://www.ieee.org/ IEEE] \n
 PhD Candidate at [https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik Communications Research Laboratory] \n
@@ -21,18 +21,19 @@ My research interests include array signal processing, machine learning, real-ti
 
 == Education
 
-- Ph.D. candidate, Ilmenau University of Technology, Mar. 2019 - till now
-- M.Sc., Kazan National Research Technical University, Sep. 2011 - Jun. 2013
-- B.Sc., Kazan National Research Technical University, Sep. 2007 - Jun. 2011
+- Mar. 2019 - Present, Ph.D. candidate, \n Ilmenau University of Technology 
+- Sep. 2011 - Jun. 2013, M.Sc., \n Kazan National Research Technical University 
+- Sep. 2007 - Jun. 2011, B.Sc., \n Kazan National Research Technical University 
 
 
 
 == Research Interests
 
 - MIMO-OFDM Wireless Communications \\ Adaptive Array Signal Processing \\ Beamforming \\ Channel Estimation
-- Statistical Methods \\ Machine Learning \\ Artificial Intelligence
-- Real-Time Signal Processing \\ SoC \\ FPGA \\ GPU
+- Statistical Methods \\ Machine Learning \\ Artificial Intelligence \\ Autonomous Systems
+- Real-Time Signal Processing \\ SoC \\ ASIC \\ FPGA \\ GPU \\ TPU
 - Linear Algebra \\ Multidimensional (Tensor) Processing \\ Optimization Methods and Algorithms
+
 
 == Contact
 

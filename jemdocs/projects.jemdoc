@@ -1,51 +1,35 @@
 # jemdoc: menu{MENU}{projects.html}
 = Research Projects
 
-===   Reconfigurable Intelligent Surfaces and Holographic Beamforming. \n
-   - + Period +: March 2022 – June 2023 \n
-   - + Role +: Senior Team Member \n
-   - + Responsibilities +: Design and simulation of wireless communications, software design.
-   #- + Short Description +: 
+===  Reconfigurable Intelligent Surfaces and Holographic Beamforming. \n
+   - January 2022 – August 2023        \n
+   - The project investigated the application of the new emerging technology of reconfigurable intelligent surfaces (RISs) and holographic beamforming to improve the performance of satellite communication networks. During the project, the analysis of achievable data rates for a communication system assisted by a RIS under impairments constraints such as thermal deformations and low-resolution phase shifters. 
 
 
-===   Advanced Hybrid Analog-Digital Massive MIMO Techniques for Millimeter Wave Wireless Systems. \n 
-   - + Period +: April 2019 – December 2022 \n
-   - + Role +: Senior Team member \n
-   - + Responsibilities +: Design and simulation of wireless communications, software design.
-   #- + Short Description +: 
+===  Advanced Hybrid Analog-Digital Massive MIMO Techniques for Millimeter Wave Wireless Systems. \n 
+   - April 2019 – December 2022        \n
+   - The goal of this project is to design advanced massive hybrid analog-digital mMIMO techniques together with the required channel acquisition schemes to improve the performance of future broadband mmWave wireless communication systems in the 28 GHz band using multiple antennas.
 
-===   Design and hardware verification of compensation algorithms of pattern distortion for multiple beams antennas. \n 
-   - + Period +: January 2017 – December 2017 \n  
-   - + Role +: Senior Team member \n
-   - + Responsibilities +: Implementation of algorithm in hardware, software design, system performance evaluation, hardware verification.
-   #- + Short Description +: 
+===  Design and hardware verification of compensation algorithms of pattern distortion for multiple beams antennas. \n 
+   - January 2017 – December 2017      \n  
+   - The goal of the project was the development of algorithms and a testbed to compensate for the impairments of a satellite antenna system with multiple beams. Perturbation of the antenna reflector is considered the main source of the impairments. As a result of the project, a digital pattern distortion compensation algorithm was proposed based on the pilot signals. Performance verified via measurement as the NI testbed. 
 
-===   Research and development of recognition algorithms for the video processing module of adaptive front-light control system. \n
-   - + Period +: January 2016 – February 2017    \n
-   - + Role +: Team member  \n
-   - + Responsibilities +: Algorithms design and verification, hardware implementation, system performance evaluation.
-   #- + Short Description +: 
+===  Research and development of recognition algorithms for the video processing module of adaptive front-light control system. \n
+   - January 2016 – February 2017      \n
+   - The goal of the project was to design a processing chain for object detection and control of an adaptive-front light system (AFS, part of ADAS). During the project, an AFS prototype was developed and tested on the dataset for various road conditions. Additional evaluation of system performance and the importance of detection features was carried out.  
 
-===   Development of prototype and verification stand for radio direction finder. \n
-   - + Period +: May 2015 – November 2015  \n  
-   - + Role +: Senior Team member \n
-   - + Responsibilities +: System modeling, development of software to control test equipment for direction finder, designing of system structure, verification of measuring algorithm.
-   #- + Short Description +: 
+===  Development of waveguide mode converter for radio direction finder and test equipment to it. \n
+   - May 2015 – November 2015          \n  
+   - The goal of the project was to simulate the work of a radio direction finder for the K-band and then develop test equipment. The measurement platform was built on the equipment from NI. The software was designed in LabView. The complex could measure radio direction finder response characteristics, store signals in real time to RAID, and extract quality parameters from the measured data.
 
 ===   Development of digital processing module for a prototype of a beacon transponder. \n
-   - + Period +: September 2013 – January 2014 \n
-   - + Role +: Team member \n
-   - + Responsibilities +: System modeling, development of software to control equipment (prototype), programming FPGA board, research and development of algorithms to receive and process data.
-   #- + Short Description +: 
+   - September 2013 – January 2014 \n
+   - In this work, a prototype of a technological beacon transponder for an air traffic control radar beacon system (ATC RBS) was developed. The prototype consisted of National Instruments equipment and the Altera FPGA development board. The technological beacon transponder is test equipment for secondary surveillance radars (air traffic control radar beacon system) that is used for equipment verification at civil airports. Within the project, the receive algorithm was developed and tested by NI equipment; later, it was transferred to the Altera FPGA development board.
 
 ===   Research and development of a prototype for OFDM based communication system. \n
-   - + Period +: January 2012 – December 2012  \n
-   - + Role +: Team member \n
-   - + Responsibilities +: System modeling, development of software for USRP testbed, research and development of time and frequency synchronization algorithms for OFDM based communication systems prototype.
-   #- + Short Description +: 
+   - January 2012 – December 2012  \n
+   - The goal of the project was the investigation of the OFDM technology. Particular focus was placed on analyzing the time- and frequency-synchronization algorithms. During the project, I created the architecture for the transceiver design and developed the corresponding algorithms for signal processing. Further, the performance was analyzed at the NI-SDR testbed with physical signals.
 
 ===   Development of software for automated system for antenna measurements. \n
-   - + Period +: April 2011 – October 2011  \n
-   - + Role +: Team member  \n
-   - + Responsibilities +: Development of software for equipment control, software for measurement data processing and software for data visualization.
-   #- + Short Description +: 
+   - April 2011 – October 2011  \n
+   - The project aimed to build the control software for an automatic antenna measurement system. The corresponding measurement system was built on the vector network analyzer from National Instrument equipment. The control systems facilitated the measurements of antenna parameters, such as diagram pattern, matching coefficient, polarization, etc. All software was developed in the graphical programming environment Labview within the project.
