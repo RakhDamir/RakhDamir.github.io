@@ -34,8 +34,8 @@
 	“Equivalence of aperture reduction in element space and constrained combination of DFT beams in beamspace,”, 
 	in /Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)/, Rhodes Island, Greece, pp. 1-5, Jun. 2023.
 #- J. Zhang, *D. Rakhimov*, M. Haardt, 
-	"Gridless channel estimation for hybrid mmWave MIMO systems via tensor-ESPRIT algorithms in DFT beamspace", 
-	/IEEE Journal of Selected Topics in Signal Processing/, vol. 15 (3), pp. 816-831, 2022
+#	"Gridless channel estimation for hybrid mmWave MIMO systems via tensor-ESPRIT algorithms in DFT beamspace", 
+#	/IEEE Journal of Selected Topics in Signal Processing/, vol. 15 (3), pp. 816-831, 2022
 - *D. Rakhimov*, A. Rakhimov, A. Nadeev, M. Haardt, 
 	"Tensor Formulation of the Cramer-Rao Lower Bound for Beamspace Channel Estimation in mmWave MIMO-OFDM", 
 	in /Proc. 25th International ITG Workshop on Smart Antennas (WSA 2021)/, Nice, France, pp. 1-5, 2021.
